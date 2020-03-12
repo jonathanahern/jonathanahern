@@ -97,6 +97,14 @@ ul, ol {
   padding: 0px;
   list-style-type: none; }
 
+#nav-name{
+  color: #754EF9;
+}
+
+/* #nav-name:hover{
+  color: #754EF9;
+} */
+
 p {
   font-size: 16px;
   font-weight: 400;
