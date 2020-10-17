@@ -1815,4 +1815,8 @@ p.form-message.success, p.form-message.error {
   margin-right: 0;
   margin-left:0;
 }
+
+#footer{
+  margin-top:40px;
+}
 /*# sourceMappingURL=style.css.map */
